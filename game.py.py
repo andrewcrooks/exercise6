@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from msp.py import rooms
+from map.py import rooms
 from player.py import *
 from items.py import *
 from gameparser.py import *
